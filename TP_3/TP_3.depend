@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1496446588 source:c:\users\monica\desktop\labo_i_tp_iii\tp_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1496438587 c:\users\monica\desktop\labo_i_tp_iii\tp_3\lib.h
+
+1496446588 source:c:\users\monica\desktop\labo_i_tp_iii\tp_3\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
